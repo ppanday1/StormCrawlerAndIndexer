@@ -10,6 +10,7 @@ package webcrawler;
  * @author lenovo
  */
 public class entry implements Comparable<entry> {
+    //Just checking git 
     private String key=null;
     private Double value=1.0;
 
