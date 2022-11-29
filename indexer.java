@@ -22,7 +22,7 @@ import static webcrawler.WebCrawler.getWebString;
  * @author lenovo
  */
 public class indexer {
-    public static String title;//doing something more
+    public static String title;//doing something more again
     public static String description;
     public static String keyword;
     public static int i=0;
